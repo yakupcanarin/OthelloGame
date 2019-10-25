@@ -1,0 +1,13 @@
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.csprojAssemblyReference.cache
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.Form1.resources
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.Properties.Resources.resources
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.csproj.GenerateResource.cache
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\bin\Debug\AI_Game.exe.config
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\bin\Debug\AI_Game.exe.manifest
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\bin\Debug\AI_Game.application
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\bin\Debug\AI_Game.exe
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\bin\Debug\AI_Game.pdb
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.exe.manifest
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.application
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.exe
+C:\Users\JACOB\Documents\Visual Studio 2019\Projects\OthelloGame\AI_Game\obj\Debug\AI_Game.pdb
